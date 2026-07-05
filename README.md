@@ -131,6 +131,6 @@
 ```bash
 $ ssh rishi@portfolio
 > GitHub:   rishi322
-> LinkedIn: rishi-patel-b6959b23a
+> LinkedIn: https://rishi-patel-b6959b23a
 > Email:    rishi.p3202@gmail.com
-> Status:   Available for high-impact Fintech / AI innovation.
+> Status:   Available for high-impact Fintech / AI innovation or any softare related projects.
