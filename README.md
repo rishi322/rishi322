@@ -5,8 +5,6 @@
   
   ### 👨‍💻 Software Engineer | MSc Fintech | AI Practitioner
   
-  *“Synthesizing financial logic into scalable, cloud-native ecosystems.”*
-  
   [Portfolio](https://riishiii.netlify.app) • [LinkedIn](https://www.linkedin.com/in/rishi-patel-b6959b23a) • [Email](mailto:rishi.p3202@gmail.com)
 </div>
 
