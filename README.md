@@ -1,7 +1,7 @@
 # ⚡ System.initialize("Rishi Patel")
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rishi322/rishi322/transparent.png" width="220" style="border-radius: 20px; filter: drop-shadow(0 0 10px #2dd4bf);" />
+  <img src="https://raw.githubusercontent.com/rishi322/rishi322/main/transparent.png" width="220" style="border-radius: 20px; filter: drop-shadow(0 0 10px #2dd4bf);" />
   
   ### 👨‍💻 Software Engineer | MSc Fintech | AI Practitioner
   
