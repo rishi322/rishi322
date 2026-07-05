@@ -23,22 +23,88 @@
 
 ### 🛠️ Technical Toolkit
 
-#### < /> Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+#### Languages
+- C
+- C++
+- Rust
+- Java
+- C#
+- JavaScript
+- TypeScript
+- Python
+- SQL
+- PL/SQL
+- PHP
+- Visual Basic .NET (VB.NET)
+- Arduino
 
-#### ⚙️ Backend, Cloud & ML
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hugging_Face](https://img.shields.io/badge/🤗_Hugging_Face-FF9900?style=for-the-badge)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+#### Frontend
+- React.js
+- Next.js
+- React Native
+- Angular / AngularJS / Angular 16
+- HTML5, CSS3, SCSS
+- Tailwind CSS
+- DOM Manipulation
+- MERN Stack
+- Android Development / Android Studio
+
+#### Backend & APIs
+- ASP.NET / ASP.NET Core
+- Entity Framework
+- Spring Boot (Java)
+- Node.js
+- FastAPI
+- GraphQL
+- REST APIs
+- API Integration
+
+#### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Oracle Database
+- PL/SQL
+
+#### DevOps, Containers & CI/CD
+- Docker
+- Jenkins
+- Git, GitHub
+- CI/CD Pipelines
+- Jira
+- Postman
+
+#### Testing & QA
+- Selenium
+- Manual Testing
+- Chrome DevTools
+- Debugging
+
+#### Payments & Integrations
+- Stripe
+- Razorpay
+- Flutterwave
+- Firebase
+- Appsmith
+
+#### Cloud, ML & AI
+- AWS (Cloud Practitioner)
+- AWS Machine Learning Foundations
+- Hugging Face (transformers / products)
+- Scikit-learn, Pandas, NumPy
+- Data Science & Data Analysis
+- Model deployment / training pipelines
+
+#### Other Tools & Concepts
+- Arduino
+- Troubleshooting
+- Incident Management
+- Customer Service
+- Capacity Planning
+- Readiness
+- Problem Solving
+- Financial Analysis
+- Digital Marketing
 
 ---
 
@@ -58,7 +124,7 @@
 ### 📜 Recent Logs
 - **AI/ML**: Fine-tuned NLP models with Hugging Face for automated document summarization.
 - **Fintech**: Analyzed S&P 500 returns using CAPM and VaR for portfolio risk assessment (Python).
-- **Architecture**: Optimized PostgreSQL performance and reduced system downtime by 30% in Agile environments.
+- **Product**: Built responsive web applications and integrated payment gateways (Stripe, Razorpay, Flutterwave).
 
 ---
 
