@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 # ⚡ System.initialize("Rishi Patel")
 
 <div align="center">
@@ -56,3 +56,4 @@ $ contact --rishi
 > GitHub:   rishi322
 > LinkedIn: rishi-patel-b6959b23a
 > Status:   Available for high-impact innovation.
+](https://www.linkedin.com/in/rishi-patel-b6959b23a/)
